@@ -1,0 +1,6 @@
+{
+  "name": "백오",
+  "description": "초보자를 위한 AI 프롬프트 모음 앱 — 원하는 프롬프트를 한눈에 찾고 바로 복사해 사용해 보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
